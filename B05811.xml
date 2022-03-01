@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The delights of the bottle: or, The town-gallants declaration for women and wine. Being a description of a town-bred gentleman, with all his intreagus, pleasure, company, humour, and conversations. Gallants, from faults he cannot be exempt, who doth a task so difficult attempt; I know I shall not hit your features right, 'tis hard to imitate in black and whight, some lines were drawn by a more skilful hand, and which they were you'l quickly understand, excuse me therefore if I do you wrong, I did but make a ballad of a song. To a most admirable new tune, every where much in request.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05811</idno>
+            <idno type="OCLC"> 13023543</idno>
+            <idno type="STC">Wing S2841</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[69]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[106]</idno>
+            <idno type="STC">ESTC R14001</idno>
+            <idno type="EEBO-CITATION">99882811</idno>
+            <idno type="PROQUEST">ocm99882811</idno>
+            <idno type="VID">183299</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05811)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183299)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:3[69]; A5:2[90])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The delights of the bottle: or, The town-gallants declaration for women and wine. Being a description of a town-bred gentleman, with all his intreagus, pleasure, company, humour, and conversations. Gallants, from faults he cannot be exempt, who doth a task so difficult attempt; I know I shall not hit your features right, 'tis hard to imitate in black and whight, some lines were drawn by a more skilful hand, and which they were you'l quickly understand, excuse me therefore if I do you wrong, I did but make a ballad of a song. To a most admirable new tune, every where much in request.</title>
+                  <author>Shadwell, Thomas, 1642?-1692.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby, at the Golden ball, near the Hospital-gate, in West-smithfield.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The first two stanzas were written originally by Thomas Shadwell for his opera Psyche, in 1675"--NUC pre-1956 imprints.</note>
+                  <note>Verse: "The delights of the bottle, &amp; the charms of good wine ..."</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Drinking songs --  Texts --  Early works to 1800.</term>
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-06</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="106" facs="tcp:183299:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 3 -->
+            <head>The Delights of the Bottle: OR, The Town-Gallants Declaration for Women and Wine.</head>
+            <head type="sub">Being a Deſcription of a Town-bred Gentleman, with all his Intreagus, Pleaſure, Company, Humour, and Converſations,</head>
+            <argument>
+               <lg>
+                  <l>Gallants, from faults he cannot be exempt,</l>
+                  <l>Who doth a task ſo difficult attempt;</l>
+                  <l>I know I ſhall not hit your features right,</l>
+                  <l>'Tis hard to imitate in black and whight,</l>
+               </lg>
+               <lg>
+                  <l>Some Lines were drawn by a more skilful hand,</l>
+                  <l>And which they were you'l quickly underſtand,</l>
+                  <l>Excuſe me therefore if I do you wrong,</l>
+                  <l>I did but make a Ballad of a Song.</l>
+               </lg>
+            </argument>
+            <opener>To a moſt Admirable New Tune, every where much in requeſt.</opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <div n="1" type="part">
+               <lg>
+                  <l>THe Delights of the Bottle, &amp; charms of good wine</l>
+                  <l>To the pow'r &amp; the pleaſures of love muſt reſign,</l>
+                  <l>Though the night in the joys of good drinking be paſt,</l>
+                  <l>The debauches but till the next morning doth laſt;</l>
+                  <l>But loves great debauch is more lasting and ſtrong,</l>
+                  <l>For that often laſts a man all his life long.</l>
+               </lg>
+               <lg>
+                  <l>Love, and Wine, are the bonds that faſten us all,</l>
+                  <l>The world, but for this, to confuſion would fall:</l>
+                  <l>Were it not for the pleasures of love and good wine,</l>
+                  <l>Man-kind, for each trifle, their lives would reſign:</l>
+                  <l>they'd not value dull life, or wou'd live without thinking</l>
+                  <l>Nor Kings rule the world, but for love &amp; good drinking.</l>
+               </lg>
+               <lg>
+                  <l>For the Grave, and the Dull, by ſobriety curs'd,</l>
+                  <l>that would ne'r take a glaſs, but for quenching his thirſt,</l>
+                  <l>He that once in a Month takes a touch of the Smoak.</l>
+                  <l>And poor Nature up-holds with a bit and a knock,</l>
+                  <l>What ever the ignorant Rabble may ſay,</l>
+                  <l>Tho' he breaths till a hundred, he lives but a day.</l>
+               </lg>
+               <lg>
+                  <l>Let the <hi>Puritan</hi> preach againſt wenches, and drink,</l>
+                  <l>He may prate out his Lungs, but I know what I think</l>
+                  <l>When the Lecture is done, he'l a Siſter entice,</l>
+                  <l>Not a Letcher in Town can Out-do-him at Vice:</l>
+                  <l>Tho' beneath his Religion, he ſtifles his joys,</l>
+                  <l>And becomes a Dabauch without clamour or noiſe.</l>
+               </lg>
+               <lg>
+                  <l>'Twixt the Vices of both, little difference lyes,</l>
+                  <l>But that one is more open, the other precize:</l>
+                  <l>Though he drinks like a chick, with his eye-balls lift up,</l>
+                  <l>Yes I'le warrant thee boy, he ſhall take off his cup:</l>
+                  <l>His Religious debauch, does the gallants out-match,</l>
+                  <l>For a Saint is his Wench, and a Pſalm is his Catch.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The Second part,</head>
+               <opener>to the ſame Tune.</opener>
+               <lg>
+                  <l>FOr the Lady of Vertue, &amp; Honour ſo ſtrict,</l>
+                  <l>That who off<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rs her Guinneys deſerves to be kick'd</l>
+                  <l>Who with ſport by her ſelf, doth her fancy beguile,</l>
+                  <l>That's aſham'd of a jeſt, and afraid of a ſmile:</l>
+                  <l>May ſhe lye by her ſelf, till ſhe wear out the ſtairs,</l>
+                  <l>Going down to her Dinner, and up to her Prayers.</l>
+               </lg>
+               <lg>
+                  <l>But let us that have Noble and generous ſouls,</l>
+                  <l>No method obſerve, but in filling our bouls:</l>
+                  <l>Let us frolick it round, to repleniſh our veins,</l>
+                  <l>And with nations divine, to enspire our brains,</l>
+                  <l>'Tis a way that's Gentile, and is found to be good,</l>
+                  <l>Both to quicken the Wit, and enliven the blood.</l>
+               </lg>
+               <lg>
+                  <l>What a pleaſure it is to ſee bottles before us,</l>
+                  <l>With the women among us to make up the Chorus?</l>
+                  <l>Now a Jest, now a Catch, now a Buſs, now a Health,</l>
+                  <l>Till our pleaſure comes on by inſenſible ſtealth,</l>
+                  <l>And when grown to a height, with our Girls we retire</l>
+                  <l>By a brisker enjoyment, to ſlacken the fire.</l>
+               </lg>
+               <lg>
+                  <l>And this is the way that the wiſer do take,</l>
+                  <l>A perpetual motion in pleaſure to make:</l>
+                  <l>With a flood of <hi>Obrian,</hi> we fill up each vein,</l>
+                  <l>All the Spirits of which love's Limbeck muſt drain:</l>
+                  <l>While the ſoberer Sot, has no motion of blood,</l>
+                  <l>For his fancy is nothing but puddle and Mud.</l>
+               </lg>
+               <lg>
+                  <l>He's a slave to his ſoul, who in ſpight of his ſence,</l>
+                  <l>VVith a Clog of his own putting on can dispence,</l>
+                  <l>For he Fetters himſelf, when at large he might rove,</l>
+                  <l>So he's ty'd from the ſweets of good drinking and love,</l>
+                  <l>Yet he's ſatisfied well, that he's thought to be wiſe,</l>
+                  <l>By the Dull and fooliſh: I mean the preciſe.</l>
+               </lg>
+               <lg>
+                  <l>For my part whatever the conſequence be,</l>
+                  <l>To my will and my fancy, I'le always be free,</l>
+                  <l>They are mad that do willfully run upon ſhelves,</l>
+                  <l>Since dangers, and troubles, will come of themſelves,</l>
+                  <l>For whoever deſireth to live like a man,</l>
+                  <l>He muſt be without trouble as long as he can.</l>
+               </lg>
+               <lg>
+                  <l>And theſe are the pleaſures true Gallants do find,</l>
+                  <l>To which if you are not, you ſhould be enclin'd,</l>
+                  <l>If you follow my counſel, you take off the curſe,</l>
+                  <l>And if you do not, we are never the worſe:</l>
+                  <l>Yet none will refuſe but a Begger or Cit,</l>
+                  <l>VVho to cary on the humour, wants Money or VVit.</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
